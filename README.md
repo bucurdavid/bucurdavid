@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Bucur</h1>
+<h1 align="center">David Bucur</h1>
 <h3 align="center">Blockchain enthusiast</h3>
 
 - 🔭 I’m currently working on [Vehick Network](https://github.com/vehicknetwork)
