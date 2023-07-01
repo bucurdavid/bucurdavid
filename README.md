@@ -1,7 +1,6 @@
 <h1 align="center">David Bucur</h1>
 <h3 align="center">Developer | Blockchain enthusiast</h3>
 
-- 🔭 Personal project: [Vehick Network](https://github.com/vehicknetwork)
 - 🔭 Own and trade your data in the Metaverse: [Itheum](https://itheum.io)
 
 <h3 align="left">Connect with me:</h3>
