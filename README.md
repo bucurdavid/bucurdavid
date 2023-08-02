@@ -1,5 +1,5 @@
 <h1 align="center">David Bucur</h1>
-<h3 align="center">Developer | Blockchain enthusiast</h3>
+<h3 align="center">Software Developer | Engineer | Blockchain enthusiast</h3>
 
 - 🔭 Own and trade your data in the Metaverse: [Itheum](https://itheum.io)
 
